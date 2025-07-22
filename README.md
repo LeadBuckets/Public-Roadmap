@@ -1,22 +1,21 @@
 # **LeadBuckets Public Roadmap**
 
-This issue-only repository is our public roadmap for LeadBuckets.co.
+This repository is our public roadmap for LeadBuckets.
 
-Add a new issue for feature requests, new integrations, bug reports, and general feedback.
-
-Feel free to explore existing issues, leave comments, upvote issues, and add new issues. Issues have 5 levels of priority: `freezer` < `queued` < `prioritized` < `urgent` < `critical`. Issues can be a `bug`, `feature`, `integration`, or `enhancement`.
+Add a new issue for feature requests, new integrations, bug reports, questions, and general feedback.
 
 ## **Report a Bug**
+
+*Feel free to email support@leadbuckets.co*
 
 1. Search existing issues if your bug isn't already reported. Leave a comment and upvote with a thumbs up if it is.
 
 2. Open a new issue. Make sure to:
-   * Write a clear title (e.g., "LinkedIn lead extraction not capturing job titles correctly")
+   * Write a clear title (e.g., "Some businesses are not within my search area")
    * Write a description as detailed as possible of what's wrong
-   * Add screenshot(s) with the problematic area marked with red rectangles
+   * Add screenshot(s) if possible
    * Include your browser and operating system information
-   * Add steps to reproduce the issue
-   * Specify which lead source/integration was being used
+   * Try to add steps to reproduce the issue
    * Include any error messages you received
 
 3. Post the issue
@@ -27,12 +26,12 @@ Feel free to explore existing issues, leave comments, upvote issues, and add new
 
 6. We will fix the issue and close it once resolved
 
-## **Request New Features or Integrations**
+## **Request New Features**
 
 1. Search existing issues if your request isn't already reported. Leave a comment and upvote with a thumbs up if it is.
 
 2. Open a new issue. Make sure to:
-   * Write a clear title (e.g., "Add Salesforce CRM integration" or "Bulk email verification feature")
+   * Write a clear title (e.g., "Add Hubspot integration" or "Bulk email feature")
    * Write a detailed description of what you're expecting
    * Explain your use case and how this would benefit your workflow
    * Add screenshot(s) from external tools/platforms if relevant
@@ -42,55 +41,36 @@ Feel free to explore existing issues, leave comments, upvote issues, and add new
 
 3. Post the issue
 
-4. Wait for an update and early triage from our team
+4. Wait for an update from us
 
 5. Feel free to add comments with additional context or requirements
 
-6. We will develop and release the feature/integration and close the issue
+6. If approved we will develop and release the feature/integration and close the issue
 
-## **Enhancement Requests**
+## **Issue Status**
 
-For improvements to existing features:
+Ensure you add the relevent lable to your issue.
 
-1. Search existing issues to avoid duplicates
-2. Create a new issue with:
-   * Clear title describing the enhancement
-   * Current behavior vs. desired behavior
-   * Screenshots showing current state
-   * Explanation of why this improvement would be valuable
+- **🧊 Maybe**: Ideas for future consideration, not actively planned
+- **⚡ Planned**: Actively planned for upcoming releases
+- **💡 Feature Request**: Customer request
+- **🚨 Bug minor**: Minor issues that do not effect functionality e.g spelling/minor UI issues.
+- **🚨🚨 Bug major**: Major issues that effect the functionality of the application or key feature e.g filter not working
+- **💀 Cloudstrike**: Complete system or feature failure. 
+- **❓ Question**: General questions or support requests
 
-## **Mission Statement and Vision**
 
-LeadBuckets.co aims to provide the most efficient and comprehensive lead generation platform, helping businesses identify, capture, and convert high-quality prospects with ease.
+## **Links**
 
-## **Our Values**
+**View All Issues**: https://github.com/LeadBuckets/Public-Roadmap/issues
 
-- **Transparency**: This public roadmap demonstrates our commitment to open communication with our users
-- **User-Centric Development**: Every feature we build is driven by real user needs and feedback
-- **Data Accuracy**: We prioritize the quality and reliability of lead data above all else
-- **Seamless Integration**: We believe your lead generation tools should work harmoniously with your existing workflow
-
-## **Priority Levels Explained**
-
-- **🧊 Freezer**: Ideas for future consideration, not actively planned
-- **📋 Queued**: Accepted requests waiting to be scheduled
-- **⚡ Prioritized**: Actively planned for upcoming releases
-- **🚨 Urgent**: Critical issues or high-impact features being worked on now
-- **💀 Critical**: System-breaking bugs or security issues requiring immediate attention
-
-## **Legal Information**
-
-Please review our Terms of Service and Privacy Policy at https://leadbuckets.co/legal
-
-## **Quick Links**
-
-**View All Issues**: https://github.com/leadbuckets/public-roadmap/issues
-
-**Add a New Issue**: https://github.com/leadbuckets/public-roadmap/issues/new
+**Add a New Issue**: https://github.com/LeadBuckets/Public-Roadmap/issues/new
 
 **Contact Support**: https://leadbuckets.co/support
 
-**Feature Documentation**: https://docs.leadbuckets.co
+**Help Page**: https://app.leadbuckets.co/help
+
+**Account Management**: https://app.leadbuckets.co/account => click 'Manage Subscription'
 
 ---
 
