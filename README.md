@@ -1,6 +1,6 @@
 # **LeadBuckets Public Roadmap**
 
-This repository is our public roadmap for LeadBuckets.
+This repository is our public roadmap for LeadBuckets https://leadbuckets.co.
 
 Add a new issue for feature requests, new integrations, bug reports, questions, and general feedback.
 
